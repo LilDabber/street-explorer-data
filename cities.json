@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "cities": [
+    {
+      "id": "riga",
+      "name": "Rīga",
+      "country": "Latvia",
+      "bbox": [
+        56.85,
+        23.93,
+        57.09,
+        24.33
+      ],
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/LilDabber/street-explorer-data/main/packs/riga-v1.json",
+      "bytes": 6185163,
+      "hoods": 60,
+      "streets": 2118,
+      "places": 2152
+    }
+  ]
+}
